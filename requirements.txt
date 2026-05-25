@@ -3,3 +3,9 @@ pandas
 mlxtend
 scikit-learn
 matplotlib
+mysql.connector
+requests
+bs4
+lxml
+seaborn
+pandas-profiling
