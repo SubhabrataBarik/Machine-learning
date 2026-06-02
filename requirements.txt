@@ -9,3 +9,5 @@ bs4
 lxml
 seaborn
 pandas-profiling
+plotly
+nbformat
