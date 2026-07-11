@@ -3,6 +3,8 @@ pandas
 mlxtend
 scikit-learn
 matplotlib
+dtreeviz
+pandas_datareader
 mysql.connector
 requests
 bs4
