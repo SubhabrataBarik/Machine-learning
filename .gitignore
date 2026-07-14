@@ -36,6 +36,8 @@ datasets/
 .DS_Store
 Thumbs.db
 
+.claude
+
 # git add .
 # git status
 # git commit -m "Initial commit"
