@@ -16,3 +16,4 @@ nbformat
 ipywidgets
 xgboost
 imblearn
+optuna
