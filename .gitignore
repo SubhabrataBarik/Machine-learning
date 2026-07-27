@@ -21,6 +21,8 @@ env/
 # Dataset files (optional)
 data/
 datasets/
+kaggle\Credit_Card_Application\Credit_Card_Applications.csv
+kaggle\Student Performance & Study Habits\student_performance_dataset.csv
 
 # Model files
 *.h5
