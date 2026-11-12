@@ -41,8 +41,11 @@ Thumbs.db
 .claude
 CLAUDE.md
 
+kaggle/1. Home Credit Default Risk/home-credit-default-risk/
+
 # git add .
 # git status
 # git commit -m "Initial commit"
 # git branch -M main
-# git push -u origin mainkaggle/Credit_Card_Application/Credit_Card_Applications.csv
+# git push -u origin main
+kaggle/Credit_Card_Application/Credit_Card_Applications.csv
